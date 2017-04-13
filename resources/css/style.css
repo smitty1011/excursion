@@ -13,7 +13,23 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
 a {
   color: aquamarine;
   font-size: 16px;
+}
+
+.image p {
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright p {
+  color: gray;
+  font-size: 21px;
+  text-align: right;
 }
